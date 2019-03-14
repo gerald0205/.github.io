@@ -1,0 +1,12 @@
+.grid img{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
+
+#buttons{
+    text-align: center;
+    display: inline-block;
+    font-size: 60px;
+    padding: 20px;
+}
